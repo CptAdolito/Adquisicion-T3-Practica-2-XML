@@ -1,0 +1,39 @@
+El archivo data2016/orders.csv
+El total de Nan por columna es: 
+order_id       0
+date        2353
+time        2038
+dtype: int64
+El total de Null por columna es: 
+order_id       0
+date        2353
+time        2038
+dtype: int64
+El dtype de cada columna es: 
+order_id     int64
+date        object
+time        object
+dtype: object
+
+
+El archivo data2016/order_details.csv
+El total de Nan por columna es: 
+order_details_id       0
+order_id               0
+pizza_id            5673
+quantity            4726
+dtype: int64
+El total de Null por columna es: 
+order_details_id       0
+order_id               0
+pizza_id            5673
+quantity            4726
+dtype: int64
+El dtype de cada columna es: 
+order_details_id     int64
+order_id             int64
+pizza_id            object
+quantity            object
+dtype: object
+
+

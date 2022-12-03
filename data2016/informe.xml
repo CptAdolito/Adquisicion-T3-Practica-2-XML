@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<root>
+  <tabla archivo_csv="data2016/orders_limpio.csv">
+    <Total_de_Nans_por_comlumna>order_id    0
+date        0
+dtype: int64</Total_de_Nans_por_comlumna>
+    <Total_de_Nulls_por_columna>order_id    0
+date        0
+dtype: int64</Total_de_Nulls_por_columna>
+    <Data_type_por_columna>order_id     int64
+date        object
+dtype: object</Data_type_por_columna>
+  </tabla>
+  <tabla archivo_csv="data2016/order_details_limpio.csv">
+    <Total_de_Nans_por_comlumna>order_details_id    0
+order_id            0
+pizza_id            0
+quantity            0
+dtype: int64</Total_de_Nans_por_comlumna>
+    <Total_de_Nulls_por_columna>order_details_id    0
+order_id            0
+pizza_id            0
+quantity            0
+dtype: int64</Total_de_Nulls_por_columna>
+    <Data_type_por_columna>order_details_id     int64
+order_id             int64
+pizza_id            object
+quantity            object
+dtype: object</Data_type_por_columna>
+  </tabla>
+</root>
