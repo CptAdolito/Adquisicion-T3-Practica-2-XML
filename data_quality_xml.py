@@ -1,5 +1,3 @@
-
-#This file does the same as informe2016.py but writes the results in an XML file istead of txt
 import pandas as pd
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
